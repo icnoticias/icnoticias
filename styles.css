@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #ff9b9b;
+    color: #e7acac;
+    padding: 20px;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  section {
+    padding: 20px;
+  }
+  
+  article {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    margin: 0;
+    font-family: "Arial Black", sans-serif;
+  }
+  
+  time {
+    font-style: italic;
+  }
+  
+  footer {
+    background-color: #889aff;
+    color: #a9b6ec;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .small-image {
+    width: 100px;
+  }
+  
